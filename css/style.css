@@ -1,0 +1,44 @@
+
+#example{
+    
+    margin: 45px;
+    display: flex;
+}
+.demo-section label {
+   
+    display: inline-block;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#employees {
+    width: 80%;
+}
+
+#example .demo-section {
+    margin: auto;
+    max-width: none;
+    width: 515px;
+}
+
+#example .k-listbox {
+    font-family: 'Source Code Pro', monospace;
+    height: 310px;
+    width: 236px;
+}
+
+#example .k-listbox:first-of-type {
+    width: 270px;
+    margin-right: 1px;
+}
+.rules{
+    display: flex;
+}
+.rules p{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: auto;
+}
+
